@@ -1,0 +1,30 @@
+body, html{
+  height: 100%;
+  margin: 0;
+}
+
+#head{
+  height: 10%;
+  width: 100%;
+  background-color: #c6f7d4;
+}
+
+#menu{
+  height: 80%;
+  width: 25%;
+  float: left;
+  background-color: #f0f0f0;
+}
+
+#content{
+  height: 80%;
+  width: 75%;
+  float: left;
+  background-color: #cff2f5;
+}
+
+#footer{
+  height: 10%;
+  width: 100%;
+  background-color: #c9cef3;
+}
